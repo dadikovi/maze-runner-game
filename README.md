@@ -2,6 +2,8 @@
 
 This is a very simple 2D HTML5 game. You have to drop a key in the target field before the ghost catch you.
 
+[Here is a playable demo](https://dadikovi.github.io/maze-runner-game-demo.html)
+
 ### Control
 
 - Move player: W - A - S - D
