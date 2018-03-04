@@ -1,6 +1,8 @@
 # Maze runner game
 
-This is a very simple 2D HTML5 game. You have to drop a key in the target field before the ghost catch you.
+This is a very simple 2D HTML5 game, which is similar to pacman. You have to drop a key in the target field before the ghost catch you.
+
+![Screenshot](.github/screenshot.jpg "Screenshot")
 
 [Here is a playable demo](https://dadikovi.github.io/maze-runner-game-demo.html)
 
